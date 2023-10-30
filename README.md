@@ -2,7 +2,7 @@
 <img src="web_demo/assets/claudia.png" alt="CUHK_KFLAB" style="width: 20%; min-width: 30px; display: block; margin: auto;">
 </p>
 
-# Dialogue CoT: Chain-of-thought prompting for responding to in-depth dialogue questions with LLM
+# Cue-CoT: Chain-of-thought Prompting for Responding to In-depth Dialogue Questions with LLMs
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/DATA_LICENSE)
@@ -22,8 +22,14 @@ This is the repo for the **CUHK**, **HIT** Dialogue CoT project, which aims to b
 - The part of constructed datasets are based on several existing research works. Please cite them and following their used policy if you used corresponding evaluation data.
 - We would not release our evaluation data based on PsyQA, adhering to the private policy of the original paper. However, if you have access to the PsyQA, the evaluation data could be automatically constructed by our provided scripts [here](./benchmark/get_preprocessed_data.ipynb).
 
-# Overview
+# Method
 
+<img width="1165" alt="image" src="https://github.com/ruleGreen/Cue-CoT/assets/26263128/f3fb84c5-403a-4544-8e19-314b2caab7b5">
+
+
+# Global Positions of Current LLMs
+
+<img width="569" alt="image" src="https://github.com/ruleGreen/Cue-CoT/assets/26263128/8bcb3a53-ae2e-4549-8636-26da4857d22e">
 
 
 # Demo
