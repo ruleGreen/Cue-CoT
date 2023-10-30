@@ -59,9 +59,9 @@ https://github.com/lm-sys/FastChat/
 # Citations
 
 ```
-@misc{wang2023chainofthought,
-      title={Chain-of-thought prompting for responding to in-depth dialogue questions with LLM}, 
-      author={Hongru Wang and Rui Wang and Fei Mi and Zezhong Wang and Ruifeng Xu and Kam-Fai Wong},
+@misc{wang2023cuecot,
+      title={Cue-CoT: Chain-of-thought Prompting for Responding to In-depth Dialogue Questions with LLMs}, 
+      author={Hongru Wang and Rui Wang and Fei Mi and Yang Deng and Zezhong Wang and Bin Liang and Ruifeng Xu and Kam-Fai Wong},
       year={2023},
       eprint={2305.11792},
       archivePrefix={arXiv},
